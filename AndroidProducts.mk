@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_rhode.mk
+    $(LOCAL_DIR)/havoc_rhode.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_rhode-user \
-    lineage_rhode-userdebug \
-    lineage_rhode-eng
+    havoc_rhode-user \
+    havoc_rhode-userdebug \
+    havoc_rhode-eng
