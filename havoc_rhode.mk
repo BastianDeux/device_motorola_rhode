@@ -15,7 +15,7 @@ $(call inherit-product, device/motorola/rhode/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_rhode
+PRODUCT_NAME := havoc_rhode
 PRODUCT_DEVICE := rhode
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto g52
